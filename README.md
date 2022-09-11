@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Kenan Aliyev</b>
+</h1>
+ 
+#### Contact: knnaliev95@gmail.com
 
-<!--
-**knnaliev95/knnaliev95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/knnaliev95) 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/knnaliev95/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=knnaliev95&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=knnaliev95&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Kenan Aliyev's Activity Graph](https://activity-graph.herokuapp.com/graph?username=knnaliev95&custom_title=Kenan%20Aliyev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/knnaliev95/)
+
+------
