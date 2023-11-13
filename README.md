@@ -4,7 +4,6 @@
  
 #### Contact: knnaliev95@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/knnaliev95) 
 
 <br>
 
